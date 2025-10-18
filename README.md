@@ -29,7 +29,7 @@ I first got acquainted with development when programming in C, C#, developing ap
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" height="36" />
 </p>
 
-FastAPI • Pydantic • Aiogram • SQLAlchemy • SQLite • MongoDB • Git
+Python • FastAPI • Pydantic • Aiogram • SQLAlchemy • SQLite • MongoDB • Git
 
 # Used before
 <p>
