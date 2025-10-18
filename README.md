@@ -10,6 +10,12 @@ I first got acquainted with development when programming in C, C#, developing ap
 - I am actively studying the FastApi, Aiogram framework.
 - I have my own projects that I promote to the masses.
 
+<div style="text-align: center;">
+  <a href="https://github.com/mateorpal" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-mateorpal-black?logo=github&logoColor=white" alt="mateorpal on git">
+  </a>
+</div>
+
 # Core stack
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" height="36" />
@@ -18,8 +24,8 @@ I first got acquainted with development when programming in C, C#, developing ap
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/pydantic" alt="Pydantic" title="Pydantic" height="36" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Aiogram (Telegram Bots)" title="Aiogram (Telegram Bots)" height="36" />
-  &nbsp;&nbsp;
+  <img src="https://github.com/aiogram.png" alt="Aiogram" title="Aiogram (Telegram Bots)" height="36" />
+&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy" title="SQLAlchemy" height="36" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite" title="SQLite" height="36" />
