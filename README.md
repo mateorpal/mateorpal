@@ -1,4 +1,4 @@
-Hi there, I'm Yegor. 👋
+Hi there, I'm Yegor. 👋 
 ============================
 I'm Backend Python Developer.
 
@@ -9,12 +9,6 @@ I first got acquainted with development when programming in C, C#, developing ap
 - I'm based in Russia, Moscow.
 - I am actively studying the FastApi, Aiogram framework.
 - I have my own projects that I promote to the masses.
-
-<div style="text-align: center;">
-  <a href="https://github.com/mateorpal" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-mateorpal-black?logo=github&logoColor=white" alt="mateorpal on git">
-  </a>
-</div>
 
 # Core stack
 <p>
