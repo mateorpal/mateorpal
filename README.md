@@ -44,7 +44,7 @@ Python • FastAPI • Pydantic • Aiogram • SQLAlchemy • SQLite • MongoD
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" height="32" />
 </p>
 
-C • C# (ADO.NET, WinForms) • PostgreSQL
+C • C# • ADO.NET • .NET WinForms • PostgreSQL
 
 <p>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3E0dmt6cHgyZnZpaDN0Y2lld2NkZ3Q4YTI1MGtkeW43a21jdjF5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VpxpIm1coCLZzvgCtB/giphy.gif" alt="Coding" width="300" align="center"/>
