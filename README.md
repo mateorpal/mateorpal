@@ -1,4 +1,4 @@
-Hi there, my name is Yegor. 👋
+Hi there, I'm Yegor. 👋
 ============================
 I'm Backend Python Developer.
 
